@@ -1,0 +1,25 @@
+name: Actualizar M3U Automáticamente
+
+on:
+  schedule:
+    # Se ejecutará todos los días a las 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub cuando quieras
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar tu repositorio
+        uses: actions/checkout@v3
+
+      - name: Descargar el archivo M3U original
+        run: |
+          curl -L "https://raw.githubusercontent.com/rb1223/exmachima/refs/heads/main/exmachimapelisplusnew.m3u" -o lista.m3u
+
+      - name: Guardar y subir los cambios a tu GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add lista.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Actualización automática de lista M3U" && git push)
