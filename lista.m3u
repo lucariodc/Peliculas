@@ -390,7 +390,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 # --- CANALES DE TV ---
 
 
-#EXTM3U
 #EXTINF:-1 ,A&E
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3420
 #EXTINF:-1 ,A&E HD
