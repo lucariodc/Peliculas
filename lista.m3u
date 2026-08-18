@@ -1,7 +1,8 @@
 #EXTM3U
 
 # --- PELÍCULAS ---
-#EXTINF:-1,Supergirl (2026)
+#EXTINF:-1
+tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Supergirl (2026)
 http://64.31.35.125:12399/vod/FD2FAE4D019B49D6B0C570A98514658D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.35.125:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dui1q6x3kpMRL_vwhcvTUYPxBE%26app_version%3D49902%26client_ip%3D181.42.38.157%26dev_id%3Dc03cfed3f8eec0a2614c9c32f619b2b5%26auth_id%3D865864288_com.android.msandroid__0%26user_id%3D865864288%26expired%3D1787051205%26token%3D588b075491f088009eb58ebd3ef555ef&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFD2FAE4D019B49D6B0C570A98514658D%26expired%3D1787051205%26token%3Dcfad84043e02978109011e503dc754df
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ2NTgzMjQtMTkwYy00NWIyLWIyMWItZDAxMTdjYjIyNzgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,En busca de la felicidad (2006)
 https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
