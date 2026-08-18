@@ -391,8 +391,8 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 # --- CANALES DE TV ---
 
-#EXTINF:-1,Latina HD+
-http://74.63.218.210:12341/fojrxfl/rggyrn
+#EXTINF:-1,Nat Geo Wild España HD
+http://208.115.233.59:23455/live/cyx_8C3151BC861DF1093EE945B/cyx_8C3151BC861DF1093EE945B.m3u8
 #EXTINF:-1 ,A&E
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3420
 #EXTINF:-1 ,A&E HD
