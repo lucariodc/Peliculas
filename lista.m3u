@@ -1,5 +1,7 @@
 #EXTM3U
 
+# --- PELÍCULAS ---
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ2NTgzMjQtMTkwYy00NWIyLWIyMWItZDAxMTdjYjIyNzgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,En busca de la felicidad (2006)
 https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" ,Sangre Por Sangre 1993
@@ -750,3 +752,6 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160119
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160143
 #EXTINF:-1 ,Zoomoo
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10017
+
+
+# --- CONTENIDO ADULTO ---
