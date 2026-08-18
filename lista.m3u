@@ -2,8 +2,6 @@
 
 # --- PELÍCULAS ---
 
-#EXTINF:-1,The Unholy Trinity (2025)
-http://74.63.240.139:20652/vod/FC88B14AF27B4D3997AD289BBCB3691C_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D74.63.240.139:20652%26app_id%3Dcom.android.msandroid%26trans_id%3DbKdCiytgnMHT_Hfjh0jpbyr1L%26app_version%3D49902%26client_ip%3D181.42.38.157%26dev_id%3Dc03cfed3f8eec0a2614c9c32f619b2b5%26auth_id%3D865864288_com.android.msandroid__0%26user_id%3D865864288%26expired%3D1787047012%26token%3Dc3c70c36d6be2eb229b8d1a588cbbb65&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFC88B14AF27B4D3997AD289BBCB3691C%26expired%3D1787047012%26token%3Ded0ac142d4fe951daade1f2d13694a21
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGQ2NTgzMjQtMTkwYy00NWIyLWIyMWItZDAxMTdjYjIyNzgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,En busca de la felicidad (2006)
 https://dl.dropboxusercontent.com/s/f4d8mrjhz8e4igy/E.B.D.L.F-SalynPM.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Wc4S6rFHKJ7jyghOdZVWVVC49j.jpg" ,Sangre Por Sangre 1993
@@ -755,6 +753,8 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160119
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160143
 #EXTINF:-1 ,Zoomoo
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10017
+#EXTINF:-1,Los Simpson
+http://208.115.233.59:23455/live/cyx_1309313900176598479084632581/cyx_1309313900176598479084632581.m3u8
 
 
 # --- CONTENIDO ADULTO ---
