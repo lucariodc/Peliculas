@@ -2,8 +2,7 @@
 
 # --- PELÍCULAS ---
 
-#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_583a8b08.jpeg?region=0,0,540,810" group-title="Películas",Toy Story 5
-Http://64.31.35.125:12399/vod/C0CE504170D14626A92A4A18ACFF7B1E_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.35.125:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DGaAWeNgAiwgo_X9q7xLGerL4%26app_version%3D49902%26client_ip%3D186.11.116.37%26dev_id%3Dc03cfed3f8eec0a2614c9c32f619b2b5%26auth_id%3D865864288_com.android.msandroid__0%26user_id%3D865864288%26expired%3D1787148412%26token%3Da90be95e3319f279870dffe8289f46d6&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DC0CE504170D14626A92A4A18ACFF7B1E%26expired%3D1787148412%26token%3D66c917261c4be904d5f9bf74fd708e0f
+
 #EXTINF:-1
 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Supergirl (2026) 
 http://64.31.35.125:12399/vod/FD2FAE4D019B49D6B0C570A98514658D_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.35.125:12399%26app_id%3Dcom.android.msandroid%26trans_id%3Dui1q6x3kpMRL_vwhcvTUYPxBE%26app_version%3D49902%26client_ip%3D181.42.38.157%26dev_id%3Dc03cfed3f8eec0a2614c9c32f619b2b5%26auth_id%3D865864288_com.android.msandroid__0%26user_id%3D865864288%26expired%3D1787051205%26token%3D588b075491f088009eb58ebd3ef555ef&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3DFD2FAE4D019B49D6B0C570A98514658D%26expired%3D1787051205%26token%3Dcfad84043e02978109011e503dc754df
@@ -396,16 +395,16 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 
 
-# --- PELICULAS PREMIUM 2026
+# --- ESTRENOS 2026---
 
 #EXTM3U
 
 
-#EXTINF:-1 ,Supergirl (2026) CAM HDTS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" ,Supergirl (2026) CAM HDTS
 https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/2/U/b/Z/D/UbZDA.aaa.mp4
-#EXTINF:-1 ,Minions & Monstruos (2026) CAM HDTS
+#EXTINF:-1 tvg-logo="https://cdn.cinemark.cl/content/posters/HO00015081.jpg" ,Minions & Monstruos (2026) CAM HDTS
 https://hugh.cdn.rumble.cloud/video/fwe2/a2/s8/2/2/z/E/C/2zECA.aaa.mp4
-#EXTINF:-1 ,Toy Story 5 (2026)
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_583a8b08.jpeg?region=0,0,540,810" ,Toy Story 5 (2026)
 https://hugh.cdn.rumble.cloud/video/fwe2/39/s8/2/O/a/P/C/OaPCA.aaa.mp4
 
 
