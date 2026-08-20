@@ -2,6 +2,11 @@
 
 # --- ESTRENOS 2026---
 
+#EXTINF:-1
+tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/476cd945ff7fb4633c88fd32152165fc6aa24d3e05e964de7641242846c8d7e8._UR2000,3000_.jpg" ,La Maldicion del Tiburón 
+http://64.31.35.125:12399/vod/5C563C0E56F94278BF5B2EEE93F4AD45_media.ts?content_auth2=/vod/%3Ftag%3Dslb%26host%3D64.31.35.125:12399%26app_id%3Dcom.android.msandroid%26trans_id%3DCsVRPd9lsdWz_u0VVpf1RpOEu%26app_version%3D49902%26client_ip%3D186.11.125.14%26dev_id%3Dc03cfed3f8eec0a2614c9c32f619b2b5%26auth_id%3D865864288_com.android.msandroid__0%26user_id%3D865864288%26expired%3D1787248577%26token%3D0755c7202cef39f4999edaddbac7bf09&content_license2=tag%3Dslb%26scheme%3Dslb%26app_id%3Dcom.android.msandroid%26media_code%3D5C563C0E56F94278BF5B2EEE93F4AD45%26expired%3D1787248577%26token%3D3d8b97ebeb80ec2b1e8b1f8c2bfa2f48
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE3NDY5OWUtZmM5Ny00NDJiLTlkZDQtN2E5MWFjZWUyMDZkXkEyXkFqcGc@._V1_.jpg" group-title="Acción",Young Washington
 http://64.31.19.253:21316/vod/5AB5EC69FDF04D599A8D4E898C7CB5A3_media.ts
 
